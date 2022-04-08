@@ -9,8 +9,8 @@ ils y reçoivent de l'argent.
 
 l'administrateur peut :
 - (ajouter, mettre à jour, supprimer, sélectionner) des utilisateurs
-- bannière un utilisateur
-- créer des paiements pour l'application
+- banner un utilisateur
+- créer un paiements pour l'application
 
 chercheur peut :
 - enregistré
@@ -19,7 +19,7 @@ chercheur peut :
 - ajouter un mode de paiement
 - fixer le prix de l'argent
 
-l'économiseur peut :
+personne qui a trouver l'object peut :
 - enregistré
 - authentifier
 - commenter la publication
