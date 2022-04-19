@@ -36,6 +36,14 @@ categorie of lost object :
 - things
 
 
+*Technologies: 
+- Node js,
+- React js
+- express js
+- mongo db
+- 
+
+
 
 
 
